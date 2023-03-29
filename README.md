@@ -1,2 +1,2 @@
 # Exercicios-de-Logica_VisualG
-exercicios de logica
+Exercícios de lógica realizados em VisualG.
